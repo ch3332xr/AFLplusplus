@@ -17,5 +17,13 @@ Ref: https://aflplus.plus/docs/tutorials/libxml2_tutorial/
 
 1. ./afl_libxml2.sh
 
+## FUZZ XMLLINT in Persistance mode 
+
+Gives a speedboost!
+
+Ref: https://aflplus.plus/docs/tutorials/libxml2_tutorial/
+
+1. ./xml_persistant.sh
+
 #### Tested on Ubuntu 18.04.4 LTS
  
