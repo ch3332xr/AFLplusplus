@@ -25,3 +25,4 @@ https://aflplus.plus/docs/tutorials/libxml2_tutorial/
 
 
 
+Tested on Ubuntu 18.04.4 LTS
