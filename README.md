@@ -1,28 +1,21 @@
-GET STARTED WITH AFL++
+# Get started with AFLplusplus ++
 
+Simple script to get AFL++ running in a jiffy
 
-https://aflplus.plus/
+## Install
 
+Ref: https://aflplus.plus/
 
-Scripts that get u up and running quickly
+1. git clone https://github.com/ch3332/AFLplusplus
+2. cd AFLplusplus
+3. chmod  +x  *.sh
+4. ./setup.sh
 
+## FUZZ libxml2
 
+Ref: https://aflplus.plus/docs/tutorials/libxml2_tutorial/
 
-##Install AFLplusplus
+1. ./afl_libxml2.sh
 
-https://aflplus.plus/building/
-
-./setup.sh
-
-
-
-
-##Fuzz libxml2
-
-https://aflplus.plus/docs/tutorials/libxml2_tutorial/
-
-./afl_libxml2.sh
-
-
-
-Tested on Ubuntu 18.04.4 LTS
+#### Tested on Ubuntu 18.04.4 LTS
+ 
