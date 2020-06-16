@@ -1,8 +1,9 @@
-AFL++
+AFL++ INSTALLER
 
-Simple script to help you get started with the setup
-
-set permissons and get going!
+Clone
+Set Permissons
+Exec
+Go fUZZ!
 
 Tested on Ubuntu 18.04.4 LTS
-Should work on all deb distros
+
