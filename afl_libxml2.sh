@@ -13,6 +13,6 @@ make CC=~/AFLplusplus/AFLplusplus/afl-clang-fast CXX=~/AFLplusplus/AFLplusplus/a
 echo -e "[+] Creating I/O dirs....Adding seeds"
 mkdir fuzz ; cp xmllint fuzz/xmllint_cov ; mkdir fuzz/in ; cp test/*.xml fuzz/in/ ; cd fuzz
 echo -e "[+] Configuring Sys 4 AFL++"
-sudo ~/AFLplusplus/afl-system-config
+sudo ~/AFLplusplus/AFLplusplus/afl-system-config
 echo -e "[+] GO fUZZ!!"
 ~/AFLplusplus/AFLplusplus/afl-fuzz -i in/ -o out -m none -d -- ./xmllint_cov @@
