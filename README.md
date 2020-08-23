@@ -6,7 +6,7 @@ Simple script to get AFL++ running in a jiffy
 
 Ref: https://aflplus.plus/
 
-1. git clone https://github.com/ch3332/AFLplusplus
+1. git clone https://github.com/ch3332xr/AFLplusplus
 2. cd AFLplusplus
 3. chmod  +x  *.sh
 4. ./setup.sh
