@@ -12,4 +12,4 @@ make distrib
 sudo make install
 echo -e "[+] All set go fuzz!"
 echo  [-------------SkFJX01BSEFLQUwh------------]
-echo  follow me on https://github.com/ch3332
+echo  follow me on https://github.com/ch3332xr
